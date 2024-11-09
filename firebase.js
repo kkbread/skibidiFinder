@@ -1,21 +1,24 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
+import { getFirestore } from "firebase/firestore";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBm2xMCLnHOf8TSo7d69N46FCJntaiw6vY",
-  authDomain: "tinkle-time-6d69f.firebaseapp.com",
-  projectId: "tinkle-time-6d69f",
-  storageBucket: "tinkle-time-6d69f.firebasestorage.app",
-  messagingSenderId: "483752082978",
-  appId: "1:483752082978:web:8faa0f55f9f81a50a8547b",
-  measurementId: "G-E6XV9QKG7D"
+  apiKey: process.env.NEXT_FIREBASE_API_KEY,
+  authDomain: process.env.NEXT_FIREBASE_AUTHDOMAIN,
+  projectId: process.env.NEXT_FIREBASE_PROJECTID,
+  storageBucket: process.env.NEXT_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: NEXT_FIREBASE_SENDER_ID,
+  appId: NEXT_APP_ID,
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
+
+// Initialize Cloud Firestore and get a reference to the service
+const db = getFirestore(app);
