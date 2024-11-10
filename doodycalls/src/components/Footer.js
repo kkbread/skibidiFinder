@@ -4,8 +4,8 @@ import './Footer.css';
 function Footer() {
   return (
     <footer className="footer">
-      <h2>Effortless Abcdefg</h2>
-      <p>Do the things you do, but better!</p>
+      <h2>Doody Calls</h2>
+      <p>Take a load off!</p>
     </footer>
   );
 }

@@ -1,7 +1,26 @@
-import React from 'react';
-import './MapPage.css';
+import React, { useEffect, useState } from "react";
+import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
+import savedPlaces from "../assets/savedPlaces.json";
+
+const GOOGLE_MAPS_API_KEY = "AIzaSyBIP6Hf1fOfq9K3LhtORzOAJVmNAwp1peE";
+
+const mapContainerStyle = {
+  width: "100%",
+  height: "500px",
+};
+
+const center = {
+  lat: 40.7582666,
+  lng: -73.9779907, // Center of NYC
+};
 
 function MapPage() {
+  const [places, setPlaces] = useState([]);
+
+  useEffect(() => {
+    setPlaces(savedPlaces.features.slice(0, 4)); // Safely slice the first 4 features
+  }, []);
+
   return (
     <div className="map-page">
       <div className="stats">
@@ -14,38 +33,48 @@ function MapPage() {
         <input type="text" placeholder="Find name or place..." />
       </div>
 
-      <div className="map-container">
-        {/* Placeholder for map */}
-      </div>
+      <LoadScript googleMapsApiKey={GOOGLE_MAPS_API_KEY}>
+        <GoogleMap mapContainerStyle={mapContainerStyle} center={center} zoom={12}>
+          {savedPlaces.features.map((place, index) => {
+            const { geometry, properties } = place;
+            const { coordinates } = geometry || {};
+            const { location } = properties || {};
+            const name = location?.name;
+
+            // Skip if coordinates or name are missing
+            if (!coordinates || !name) return null;
+
+            return (
+              <Marker
+                key={index}
+                position={{ lat: coordinates[1], lng: coordinates[0] }}
+                title={name}
+              />
+            );
+          })}
+        </GoogleMap>
+      </LoadScript>
 
       <div className="bathroom-cards">
-        {[...Array(4)].map((_, index) => (
-          <div className="bathroom-card" key={index}>
-            <h3>Place</h3>
-            <p>Rating: ★★★★☆</p>
-            {/* Placeholder icons */}
-            <p>Features: 🚻 ♿ ⭐ </p>
-          </div>
-        ))}
-      </div>
+        {places.map((place, index) => {
+          const { properties } = place;
+          const { location } = properties || {};
+          const { name, address } = location || {};
+          const googleMapsUrl = properties?.google_maps_url;
 
-      <div className="comments-section">
-        <h3>Comments</h3>
-        {[...Array(2)].map((_, index) => (
-          <div className="comment" key={index}>
-            <div className="avatar">😊</div>
-            <div className="comment-content">
-              <p><strong>John Doe</strong> - Posted Sep 9, 2024</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+          // Skip if location or name is missing
+          if (!name || !address) return null;
+
+          return (
+            <div className="bathroom-card" key={index}>
+              <h3>{name}</h3>
+              <p>{address}</p>
+              <a href={googleMapsUrl} target="_blank" rel="noopener noreferrer">
+                View on Google Maps
+              </a>
             </div>
-          </div>
-        ))}
-      </div>
-
-      <div className="post-comment">
-        <div className="avatar">😊</div>
-        <textarea placeholder="Write a comment..."></textarea>
-        <button>Post Comment</button>
+          );
+        })}
       </div>
     </div>
   );
