@@ -6,6 +6,7 @@ import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage'; // Added this line
 import MapPage from './components/MapPage';
 import ProfilePage from './components/ProfilePage';
+import LoginPage from './components/LoginPage';
 //import ForumPage from './components/ForumPage';
 
 function App() {
@@ -14,9 +15,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/about" element={<AboutPage />} /> {/* New route */}
+        <Route path="/about" element={<AboutPage />} />
         <Route path="/map" element={<MapPage />} />
         <Route path='/profile' element={<ProfilePage />} />
+        <Route path="/login" element={<LoginPage />} />
       </Routes>
       <Footer />
     </Router>
