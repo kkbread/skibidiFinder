@@ -1,0 +1,18 @@
+.footer {
+  background-color: #e0e0e0;
+  padding: 40px;
+  text-align: center;
+  margin-top: 30px;
+  border-radius: 8px;
+}
+
+.footer h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  font-size: 16px;
+  color: #555;
+}

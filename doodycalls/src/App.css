@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.hero-and-signup {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+main {
+  background-color: #f0f0f0;
+  padding: 40px;
+}
