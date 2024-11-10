@@ -1,25 +1,25 @@
 import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import HeroSection from './components/HeroSection';
-import SignUpForm from './components/SignUpForm';
-import VideoDemo from './components/VideoDemo';
-import Footer from './components/Footer';
-import './App.css';
+import HomePage from './components/HomePage';
+//import MapPage from './components/MapPage';
+import AboutPage from './components/AboutPage';
+//import ForumPage from './components/ForumPage';
 
 function App() {
   return (
-    <div className="App">
+    <Router>
       <Navbar />
-      <main>
-        <div className="hero-and-signup">
-          <HeroSection />
-          <SignUpForm />
-        </div>
-        <VideoDemo />
-      </main>
-      <Footer />
-    </div>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<AboutPage />} />
+      </Routes>
+    </Router>
   );
 }
 
 export default App;
+/*
+<Route path="/map" element={<MapPage />} />
+<Route path="/forum" element={<ForumPage />} />
+*/
