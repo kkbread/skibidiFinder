@@ -10,11 +10,12 @@ function Navbar() {
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About Us</Link></li>
         <li><Link to="/map">Map</Link></li>
-        <li><Link to="/forum">Forum</Link></li>
       </ul>
       <div className="login-icon">🔒</div>
     </nav>
   );
 }
+
+//        <li><Link to="/forum">Forum</Link></li>
 
 export default Navbar;

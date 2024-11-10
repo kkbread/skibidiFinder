@@ -47,11 +47,6 @@ function MapPage() {
         <textarea placeholder="Write a comment..."></textarea>
         <button>Post Comment</button>
       </div>
-
-      <footer className="footer">
-        <h2>Effortless Abcdefg</h2>
-        <p>Do the things you do, but better!</p>
-      </footer>
     </div>
   );
 }

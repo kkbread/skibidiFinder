@@ -1,87 +1,14 @@
-.home-page {
-  padding: 20px;
-}
-
-.hero-section {
-  background-color: #4a4a4a;
-  color: #fff;
-  padding: 40px;
-  border-radius: 8px;
+.App {
   text-align: center;
 }
 
-.hero-section h1 {
-  font-size: 2.5em;
-}
-
-.hero-section p {
-  font-size: 1.2em;
-}
-
-.cta-link {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 10px 20px;
-  background-color: #fff;
-  color: #333;
-  text-decoration: none;
-  border-radius: 4px;
-}
-
-.signup-section {
-  margin-top: 40px;
-  text-align: center;
-}
-
-.google-signup {
-  background-color: #4285f4;
-  color: #fff;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-.email-signup {
+.hero-and-signup {
   display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 20px;
-}
-
-.email-signup input {
-  padding: 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-
-.email-signup button {
-  padding: 10px;
-  background-color: #333;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-.video-demo-section {
-  margin-top: 40px;
-  text-align: center;
-}
-
-.video-placeholder {
-  width: 100%;
-  max-width: 600px;
-  height: 337px;
-  background-color: #ddd;
-  display: inline-block;
-  border-radius: 8px;
-}
-
-.footer-section {
-  background-color: #e0e0e0;
+  justify-content: space-between;
   padding: 20px;
-  text-align: center;
-  border-radius: 8px;
-  margin-top: 40px;
+}
+
+main {
+  background-color: #f0f0f0;
+  padding: 40px;
 }
