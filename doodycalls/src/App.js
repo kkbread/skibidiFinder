@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import HomePage from './components/HomePage';
 import AboutPage from './components/AboutPage'; // Added this line
 import MapPage from './components/MapPage';
+import ProfilePage from './components/ProfilePage';
 //import ForumPage from './components/ForumPage';
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<AboutPage />} /> {/* New route */}
         <Route path="/map" element={<MapPage />} />
-        
+        <Route path='/profile' element={<ProfilePage />} />
       </Routes>
       <Footer />
     </Router>

@@ -11,7 +11,7 @@ function Navbar() {
         <li><Link to="/about">About Us</Link></li>
         <li><Link to="/map">Map</Link></li>
       </ul>
-      <div className="login-icon">🔒</div>
+      <div className="login-icon"><Link to="/profile">🔒</Link></div>
     </nav>
   );
 }
