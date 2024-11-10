@@ -13,6 +13,7 @@ import {
 } from "firebase/firestore"; 
 import {db} from "./firebaseConfig"
 
+// adds location of bathroom to database (specific fields of each document TBD)
 export const uploadLocation = async (newLocation) => {
     // Validate input fields
     if (
@@ -44,6 +45,7 @@ export const uploadLocation = async (newLocation) => {
     }
 };
 
+// adds reviews to database
 export const uploadReview = async (newReview) => {
     try {
         const revRef = await addDoc(collection(db, "reviews"), {
@@ -58,6 +60,7 @@ export const uploadReview = async (newReview) => {
     }
 };
 
+// deletes any type of document
 export const deleteDoc = async (collectionName, docId) => {
     try {
       await deleteDoc(doc(db, collectionName, docId));
@@ -67,4 +70,17 @@ export const deleteDoc = async (collectionName, docId) => {
     }
 };
 
-export const 
+// edits reviews
+export const updateReview = async (newReview) => {
+    try {
+        const revRef = await addDoc(collection(db, "reviews"), {
+          account: newReview.account,
+          bathroom: newReview.bathroom,
+          rating: newReview.rating,
+          description: newReview.description
+        });                                                             
+        console.log("Document written with ID: ", locRef.id);
+      } catch (e) {
+        console.error("Error adding document: ", e);
+    }
+};
