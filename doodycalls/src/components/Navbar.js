@@ -16,7 +16,7 @@ function Navbar() {
       </a>
       <ul className="navbar-links">
         <li><a href="/about">About</a></li>
-        <li><a href="/map">Doody Locater</a></li>
+        <li><a href="/map">Flush Finder</a></li>
         <li><a href="/forum">Forum</a></li>
       </ul>
       <div className="navbar-search-profile">
