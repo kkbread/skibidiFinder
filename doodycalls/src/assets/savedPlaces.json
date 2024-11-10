@@ -1,0 +1,1885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9779907,
+          40.7582666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:08:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=6207826458398949408",
+        "location": {
+          "address": "610 5th Ave, New York, NY 10020, United States",
+          "country_code": "US",
+          "name": "Tiffany & Co. - Rockefeller Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9200695,
+          40.7708116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:07:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=11874541451887788656",
+        "location": {
+          "address": "28-17 Astoria Blvd, Astoria, NY 11102, United States",
+          "country_code": "US",
+          "name": "Basil Brick Oven Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9922431,
+          40.7510873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:07:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=13915922696562015983",
+        "location": {
+          "address": "PENN 1, 1 Pennsylvania Plaza, New York, NY 10119, United States",
+          "name": "PENN 1"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.7611462,
+          40.7612877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:07:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=2783393600587894916",
+        "location": {
+          "address": "220-06 Northern Blvd, Bayside, NY 11361, United States",
+          "country_code": "US",
+          "name": "Wendy's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9845837,
+          40.7432559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:07:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=5924192283665913632",
+        "location": {
+          "address": "400 Park Ave S, New York, NY 10016, United States",
+          "country_code": "US",
+          "name": "Pret A Manger"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9081653,
+          40.7745737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:07:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=2387990975313173226",
+        "location": {
+          "address": "35-19 Ditmars Blvd, Astoria, NY 11105, United States",
+          "country_code": "US",
+          "name": "TRU Astoria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9636005,
+          40.6604442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=12614572480282616405",
+        "location": {
+          "address": "116 East Dr, Brooklyn, NY 11225, United States",
+          "country_code": "US",
+          "name": "Public Restroom"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9474113,
+          40.7791740
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=13434129808326101690",
+        "location": {
+          "address": "400 E 90th St, New York, NY 10128, United States",
+          "country_code": "US",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9143606,
+          40.7637449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=3832669563858018463",
+        "location": {
+          "address": "4013 30th Ave., Long Island City, NY 11103, United States",
+          "country_code": "US",
+          "name": "Gaudio's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9848854,
+          40.7533193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=7822361097459312007",
+        "location": {
+          "address": "80 W 40th St, New York, NY 10018, United States",
+          "country_code": "US",
+          "name": "Ole & Steen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9587603,
+          40.7208310
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=16959527634597869428",
+        "location": {
+          "address": "97 Wythe Ave, Brooklyn, NY 11249, United States",
+          "country_code": "US",
+          "name": "The Hoxton, Williamsburg"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8709027,
+          40.8730842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=4116021995197444484",
+        "location": {
+          "address": "Bronx Boulevard and, Rosewood St, Bronx, NY 10467, United States",
+          "country_code": "US",
+          "name": "Rosewood Playground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9999901,
+          40.5930973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:06:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=6889835444998328033",
+        "location": {
+          "address": "89-59 Bay Pkwy, Brooklyn, NY 11214, United States",
+          "country_code": "US",
+          "name": "Five Below"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9526515,
+          40.8298609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:04:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=3668628426411889676",
+        "location": {
+          "address": "Playground, Ten Mile River, New York, NY 10031, United States",
+          "country_code": "US",
+          "name": "Public Restroom"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9441735,
+          40.8355654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:04:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=7178843181941214228",
+        "location": {
+          "address": "3821 Broadway, New York, NY 10032, United States",
+          "country_code": "US",
+          "name": "Hilltop Park Alehouse"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9855319,
+          40.7400630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:04:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=17551494387987183180",
+        "location": {
+          "address": "115 E 23rd St, New York, NY 10010, United States",
+          "country_code": "US",
+          "name": "T.K.K. Fried Chicken"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9898619,
+          40.7381688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:04:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=4602036851330662501",
+        "location": {
+          "address": "888 Broadway, New York, NY 10003, United States",
+          "country_code": "US",
+          "name": "abc carpet & home"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9537714,
+          40.7880748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:04:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=1837710668345182035",
+        "location": {
+          "address": "1400 Madison Ave, New York, NY 10029, United States",
+          "country_code": "US",
+          "name": "JOE & THE JUICE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0077714,
+          40.7073288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:04:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=9415979380006079583",
+        "location": {
+          "address": "80 Maiden Ln, New York, NY 10038, United States",
+          "country_code": "US",
+          "name": "Café Hestia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9867349,
+          40.7509072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:03:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=15343011825424120218",
+        "location": {
+          "address": "976 6th Ave, New York, NY 10018, United States",
+          "country_code": "US",
+          "name": "Taco Bell Cantina"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9840953,
+          40.7494435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:03:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=4629247405045062346",
+        "location": {
+          "address": "378 5th Ave, New York, NY 10018, United States",
+          "country_code": "US",
+          "name": "Bravo Pizza (K)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9878560,
+          40.7406540
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:03:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=13162402672628234416",
+        "location": {
+          "address": "26 E 23rd St, New York, NY 10010, United States",
+          "country_code": "US",
+          "name": "McDonald's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8529791,
+          40.8529468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=927487056042219284",
+        "location": {
+          "address": "1916 Williamsbridge Rd, Bronx, NY 10461, United States",
+          "country_code": "US",
+          "name": "CVS"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9906750,
+          40.7591952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=8525518766508880227",
+        "location": {
+          "address": "332 W 44th St, New York, NY 10036, United States",
+          "country_code": "US",
+          "name": "Vanilla Gorilla Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0075783,
+          40.7058199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=8330997976310258838",
+        "location": {
+          "address": "160 Pearl St #1, New York, NY 10005, United States",
+          "country_code": "US",
+          "name": "The Full Shilling"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9195914,
+          40.7657708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=2757791470189740461",
+        "location": {
+          "address": "33-10 30th Ave., Astoria, NY 11103, United States",
+          "country_code": "US",
+          "name": "New York City Bagel & Coffee House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0062150,
+          40.7032688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=5577668477526305311",
+        "location": {
+          "address": "South St, New York, NY 10005, United States",
+          "country_code": "US",
+          "name": "Pier 11 / Wall St."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9827207,
+          40.6977698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=11889306311849220",
+        "location": {
+          "address": "Gold Street &, Concord St, Brooklyn, NY 11201, United States",
+          "country_code": "US",
+          "name": "Golconda Playground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9793460,
+          40.6988790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=10683007620453322997",
+        "location": {
+          "address": "21 Flushing Ave, Brooklyn, NY 11205, United States",
+          "country_code": "US",
+          "name": "Wegmans"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9385274,
+          40.7482705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=14136190412654465823",
+        "location": {
+          "address": "28-10 Jackson Ave, Long Island City, NY 11101, United States",
+          "country_code": "US",
+          "name": "Sweetleaf Coffee Roasters"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9926029,
+          40.7479506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=6264393165558372026",
+        "location": {
+          "address": "343 7th Ave, New York, NY 10001, United States",
+          "country_code": "US",
+          "name": "Five Guys"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9224407,
+          40.7798628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=10196638720721597360",
+        "location": {
+          "address": "Shore Blvd, Astoria, NY 11102, United States",
+          "country_code": "US",
+          "name": "Charybdis Playground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8473400,
+          40.7209678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=2217827590401043135",
+        "location": {
+          "address": "7000 Austin St, Forest Hills, NY 11375, United States",
+          "country_code": "US",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9843876,
+          40.7598399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=3447344663224698927",
+        "location": {
+          "address": "Two Times Square 714 Seventh Avenue At, W 48th St, New York, NY 10036, United States",
+          "country_code": "US",
+          "name": "Renaissance New York Times Square Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8774450,
+          40.7382030
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=12801694620516585977",
+        "location": {
+          "address": "86-18 Broadway, Elmhurst, NY 11373, United States",
+          "country_code": "US",
+          "name": "Good Supermarket"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9590731,
+          40.7973289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=9215287614279930421",
+        "location": {
+          "address": "Great Hill, New York, NY 10025, United States",
+          "country_code": "US",
+          "name": "Restrooms (Seasonal)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8188615,
+          40.8211916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:02:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=13111473528872311240",
+        "location": {
+          "address": "3938 E Tremont Ave, Bronx, NY 10465, United States",
+          "country_code": "US",
+          "name": "IKKO Hibachi Sushi Asian Bistro&Crab House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9077893,
+          40.8733943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=14247616354404269538",
+        "location": {
+          "address": "40 W 225th St #50, Bronx, NY 10463, United States",
+          "country_code": "US",
+          "name": "Target"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0080436,
+          40.7100584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=18334050343802668743",
+        "location": {
+          "address": "85 Nassau St, New York, NY 10038, United States",
+          "country_code": "US",
+          "name": "Wendy's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9259247,
+          40.8272043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=7126239600393468717",
+        "location": {
+          "address": "856 River Ave, Bronx, NY 10451, United States",
+          "country_code": "US",
+          "name": "Billy's Sports Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0003355,
+          40.7217048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=6983141751119638557",
+        "location": {
+          "address": "483 Broadway, New York, NY 10013, United States",
+          "country_code": "US",
+          "name": "T.J. Maxx"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9408948,
+          40.8145527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=8377904582731226920",
+        "location": {
+          "address": "515 Malcolm X Blvd, New York, NY 10037, United States",
+          "country_code": "US",
+          "name": "Schomburg Center for Research in Black Culture - New York Public Library"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9467515,
+          40.6315059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=257531583136941811",
+        "location": {
+          "address": "1598 Flatbush Ave, Brooklyn, NY 11210, United States",
+          "country_code": "US",
+          "name": "Target"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9867454,
+          40.7621052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=4946115988520119029",
+        "location": {
+          "address": "825 8th Ave, New York, NY 10019, United States",
+          "name": "WNET-Channel 13"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0010000,
+          40.5931630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=5193000390161884344",
+        "location": {
+          "address": "8973 Bay Pkwy Ste 1, Brooklyn, NY 11214, United States",
+          "country_code": "US",
+          "name": "Kohl's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9776469,
+          40.6864737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=10642768116462173992",
+        "location": {
+          "address": "30 Lafayette Ave, Brooklyn, NY 11217, United States",
+          "country_code": "US",
+          "name": "Brooklyn Academy of Music"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8296876,
+          40.7590799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=16780771764601362622",
+        "location": {
+          "address": "136-20 Roosevelt Ave, Flushing, NY 11354, United States",
+          "country_code": "US",
+          "name": "Jmart"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9723757,
+          40.7518354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=1538596455067531865",
+        "location": {
+          "address": "221 E 44th St, New York, NY 10017, United States",
+          "country_code": "US",
+          "name": "EVEN Hotel New York - Midtown East, an IHG Hotel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9674761,
+          40.7574608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=11091707577668398892",
+        "location": {
+          "address": "240 E 54th St, New York, NY 10022, United States",
+          "name": "SoulCycle"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9930621,
+          40.7188177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:01:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=11503885635265339432",
+        "location": {
+          "address": "Sara D. Roosevelt Park Chrystie St. &, Forsyth St, New York, NY 10002, United States",
+          "country_code": "US",
+          "name": "Public Restroom"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9501499,
+          40.6805564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=8682811876610546609",
+        "location": {
+          "address": "1281 Fulton St, Brooklyn, NY 11216, United States",
+          "country_code": "US",
+          "name": "Walgreens"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0083574,
+          40.7397424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=1347610038082594650",
+        "location": {
+          "address": "New York, NY 10014, United States",
+          "country_code": "US",
+          "name": "Restroom"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9606560,
+          40.5775113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=12648116012690831407",
+        "location": {
+          "address": "624 Brighton Beach Ave, Brooklyn, NY 11235, United States",
+          "country_code": "US",
+          "name": "Brighton Deil & juice bar INC"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9051069,
+          40.8771138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=8430716630502024408",
+        "location": {
+          "address": "171 W 230th St, Bronx, NY 10463, United States",
+          "country_code": "US",
+          "name": "T.J. Maxx"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9897120,
+          40.7330090
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=3443106626880649934",
+        "location": {
+          "address": "123 4th Ave, New York, NY 10003, United States",
+          "country_code": "US",
+          "name": "Think Coffee"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9772561,
+          40.7581380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=11181967480131990718",
+        "location": {
+          "address": "611 5th Ave, New York, NY 10022, United States",
+          "country_code": "US",
+          "name": "Saks Fifth Avenue"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9827655,
+          40.6912253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=9495574767273176809",
+        "location": {
+          "address": "445 Gold St, Brooklyn, NY 11201, United States",
+          "country_code": "US",
+          "name": "Trader Joe's"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9147713,
+          40.7657154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=16120814139684022163",
+        "location": {
+          "address": "3718 28th Ave, Long Island City, NY 11103, United States",
+          "country_code": "US",
+          "name": "Irish Rover"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8377874,
+          40.8114955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=6042397719568409855",
+        "location": {
+          "address": "10 Hutchinson Riv Pkwy, Bronx, NY 10465, United States",
+          "country_code": "US",
+          "name": "Ferry Point Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9896373,
+          40.7594546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=8937374022216239401",
+        "location": {
+          "address": "322 W 45th St, New York, NY 10036, United States",
+          "country_code": "US",
+          "name": "Broadway Dance Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0005475,
+          40.7631188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=11629843897540816015",
+        "location": {
+          "address": "555 12th Ave, New York, NY 10036, United States",
+          "country_code": "US",
+          "name": "Pier 84 at Hudson River Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9751066,
+          40.6215190
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T23:00:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=11140191129190610063",
+        "location": {
+          "address": "5025 Bay Pkwy, Brooklyn, NY 11230, United States",
+          "country_code": "US",
+          "name": "Mobil"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9205955,
+          40.8680872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=7410766349369659245",
+        "location": {
+          "address": "4959 Broadway, New York, NY 10034, United States",
+          "country_code": "US",
+          "name": "Yummy Thai"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.1711743,
+          40.5605733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=4827731227891553817",
+        "location": {
+          "address": "Staten Island, NY 10312, United States",
+          "country_code": "US",
+          "name": "Eltingville/Transit Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8790014,
+          40.8806488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=16305936846107878510",
+        "location": {
+          "address": "111 E 210th St, Bronx, NY 10467, United States",
+          "country_code": "US",
+          "name": "Montefiore Medical Center Moses Campus Emergency Room"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0001060,
+          40.7191810
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=8880042602983737407",
+        "location": {
+          "address": "11 Howard St, New York, NY 10013, United States",
+          "country_code": "US",
+          "name": "11 Howard"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:42Z",
+        "google_maps_url": "http://maps.google.com/?q=465+W+163rd+St,+New+York,+NY+10032&ftid=0x89c2f682de702d55:0x380b3eea697a282c",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8456826,
+          40.7206215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=13891226554689620984",
+        "location": {
+          "address": "70-35 Austin St, Forest Hills, NY 11375, United States",
+          "country_code": "US",
+          "name": "OBA Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8848173,
+          40.8587496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=3619731013626267111",
+        "location": {
+          "address": "590 E 191st St, Bronx, NY 10458, United States",
+          "country_code": "US",
+          "name": "Pugsley Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:33Z",
+        "google_maps_url": "http://maps.google.com/?q=37+Greenpoint+Ave,+Brooklyn,+NY+11222&ftid=0x89c259402f228683:0x107927f55b2905ea",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0259060,
+          40.6211059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=15348591395097326998",
+        "location": {
+          "address": "514 86th St, Brooklyn, NY 11209, United States",
+          "country_code": "US",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9915498,
+          40.7433752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=11579345344817658746",
+        "location": {
+          "address": "49 W 24th St, New York, NY 10010, United States",
+          "country_code": "US",
+          "name": "Tappo NYC Thin Crust Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9733327,
+          40.7553789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=5393166473597225133",
+        "location": {
+          "address": "518 Lexington Ave, New York, NY 10017, United States",
+          "country_code": "US",
+          "name": "Ole & Steen"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9444000,
+          40.6797000
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=16174430627816607734",
+        "location": {
+          "address": "1420 Fulton St, Brooklyn, NY 11216, United States",
+          "country_code": "US",
+          "name": "Super Foodtown"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9667555,
+          40.8045845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=2670930970676598238",
+        "location": {
+          "address": "2847 Broadway, New York, NY 10025, United States",
+          "country_code": "US",
+          "name": "Five Guys"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9200520,
+          40.6101191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=18118949715551564038",
+        "location": {
+          "address": "5100 Kings Plz, Brooklyn, NY 11234, United States",
+          "country_code": "US",
+          "name": "Kings Plaza Shopping Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9778027,
+          40.7599932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=2387410266152027504",
+        "location": {
+          "address": "75 Rockefeller Plaza Floor 1, New York, NY 10019, United States",
+          "country_code": "US",
+          "name": "American Girl Place New York"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0114644,
+          40.6719676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=10886966435045193226",
+        "location": {
+          "address": "1 Beard St, Brooklyn, NY 11231, United States",
+          "country_code": "US",
+          "name": "IKEA"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9991124,
+          40.6957290
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=12082995331951021132",
+        "location": {
+          "address": "11 Montague St, Brooklyn, NY 11201, United States",
+          "country_code": "US",
+          "name": "Public Restroom"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9480977,
+          40.7304737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=5887178788703996590",
+        "location": {
+          "address": "278 Greenpoint Ave, Brooklyn, NY 11222, United States",
+          "country_code": "US",
+          "name": "Sonomax"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9206228,
+          40.7662576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:59:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=17634990451978310091",
+        "location": {
+          "address": "32-02 30th Ave., Astoria, NY 11102, United States",
+          "country_code": "US",
+          "name": "Burger Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0051549,
+          40.7415944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=7231903711028778805",
+        "location": {
+          "address": "61 9th Ave, New York, NY 10011, United States",
+          "country_code": "US",
+          "name": "Starbucks Reserve Roastery New York"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0038508,
+          40.7054821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=11095645705836223801",
+        "location": {
+          "address": "East River Greenway, PECK SLIP, NY 10038, United States",
+          "country_code": "US",
+          "name": "Public Restrooms"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0073050,
+          40.7182470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=8145804855987618006",
+        "location": {
+          "address": "180 W Broadway, New York, NY 10013, United States",
+          "country_code": "US",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9786865,
+          40.7817927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=17749653346193918793",
+        "location": {
+          "address": "Amsterdam Ave &, W 78th St, New York, NY 10024, United States",
+          "country_code": "US",
+          "name": "Tecumseh Playground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9881900,
+          40.7180004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=17672188242271576471",
+        "location": {
+          "address": "88 Essex St, New York, NY 10002, United States",
+          "country_code": "US",
+          "name": "Essex Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8471952,
+          40.8565827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=10279418816666453812",
+        "location": {
+          "address": "1400 Pelham Pkwy S, Bronx, NY 10461, United States",
+          "country_code": "US",
+          "name": "NYC Health + Hospitals/Jacobi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:18Z",
+        "google_maps_url": "http://maps.google.com/?q=114+Delancey+St,+New+York,+NY+10002&ftid=0x89c2598128f79023:0x686622f571a77cb0",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.2089150,
+          40.5351527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=4530466493459250898",
+        "location": {
+          "address": "Ramona Ave &, Lenevar Ave, Staten Island, NY 10309, United States",
+          "country_code": "US",
+          "name": "Bloomingdale Park Playground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0066692,
+          40.7116857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=10988205551705517188",
+        "location": {
+          "address": "38 Park Row #4, New York, NY 10038, United States",
+          "country_code": "US",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9934387,
+          40.7505045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=3737724789719234788",
+        "location": {
+          "address": "New York, NY 10001, United States",
+          "country_code": "US",
+          "name": "Madison Square Garden"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.7538162,
+          40.7070094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=11615828800035328194",
+        "location": {
+          "address": "204-01 Hollis Ave South, St. Albans, NY 11412, United States",
+          "country_code": "US",
+          "name": "Queens Public Library at South Hollis"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9915504,
+          40.7366630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:58:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=3764454647616119743",
+        "location": {
+          "address": "28 E 16th St, New York, NY 10003, United States",
+          "country_code": "US",
+          "name": "Flats Fix Taqueria and Tequila Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9876443,
+          40.7330397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:57:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=13037142492810852075",
+        "location": {
+          "address": "114 3rd Ave, New York, NY 10003, United States",
+          "country_code": "US",
+          "name": "Bagel Belly"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:57:53Z",
+        "google_maps_url": "http://maps.google.com/?q=World+Trade+Center,+New+York,+NY&ftid=0x89c25a19881b83fb:0x979b0a4fe0492ce6",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.8373050,
+          40.8054550
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:57:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=5624100386829592888",
+        "location": {
+          "address": "Bronx, NY 10473, United States",
+          "country_code": "US",
+          "name": "Ferry Point Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9764462,
+          40.7506317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:57:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=7511401110900128079",
+        "location": {
+          "address": "369 Lexington Ave, New York, NY 10017, United States",
+          "country_code": "US",
+          "name": "Everyday Gourmet Deli"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9688552,
+          40.7549063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:56:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=4454941136535932767",
+        "location": {
+          "address": "941 2nd Ave, New York, NY 10022, United States",
+          "country_code": "US",
+          "name": "Slate Cafe Midtown"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0127205,
+          40.7161147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:56:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=3953170733751309317",
+        "location": {
+          "address": "103 Warren St, New York, NY 10007, United States",
+          "name": "SoulCycle Tribeca"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.1459714,
+          40.5418284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-09T22:55:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=17278915327042950264",
+        "location": {
+          "address": "4000 Hylan Blvd, Staten Island, NY 10308, United States",
+          "country_code": "US",
+          "name": "Dunkin'"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}

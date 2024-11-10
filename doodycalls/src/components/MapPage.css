@@ -123,3 +123,21 @@
   color: #fff;
   cursor: pointer;
 }
+
+.map-container {
+  grid-area: map;
+  background-color: #d0d0d0;
+  height: 500px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.bathroom-card a {
+  color: #0073e6;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.bathroom-card a:hover {
+  text-decoration: underline;
+}
